@@ -11,4 +11,7 @@ print("\n--------------------")
 
 a_bill_manager.proccess_bills()
 
-print(a_bill_manager.print_summary_per_person())
+a_bill_manager.get_transferences_to_be_done()
+
+print("Transfer summary: \n")
+a_bill_manager.print_transfers_summary()
