@@ -1,0 +1,300 @@
+People involved: 
+
+Celeste
+Gonzalo
+Ludmila
+Ezequiel
+Sergio
+
+
+The following bills will be proccessed: 
+
+12/11 Ludmila paid for prestado   ->   $1000   Ezequiel Ludmila - excluded to pay this bill.
+13/11 Gonzalo paid for Comida   ->   $8100   Celeste - excluded to pay this bill.
+14/11 Ludmila paid for Remis   ->   $4000   Celeste - excluded to pay this bill.
+15/11 Ludmila paid for cositas   ->   $810   Gonzalo Celeste - excluded to pay this bill.
+15/11 Ludmila paid for super   ->   $4320   Gonzalo Celeste - excluded to pay this bill.
+15/11 Sergio paid for remis   ->   $530   Gonzalo Celeste - excluded to pay this bill.
+15/11 Ludmila paid for mas cositas   ->   $1850   Gonzalo Celeste - excluded to pay this bill.
+139120.15
+
+------------------------------------
+[['Celeste', -12415.21], ['Gonzalo', 8139.639999999999], ['Ludmila', 6399.629999999999], ['Ezequiel', -11120.37], ['Sergio', 8996.300000000001]]
+[['Celeste', -3418.909999999998], ['Ezequiel', -11120.37], ['Ludmila', 6399.629999999999], ['Gonzalo', 8139.639999999999]]
+[['Ezequiel', -2980.7300000000014], ['Celeste', -3418.909999999998], ['Ludmila', 6399.629999999999]]
+[['Ezequiel', -2980.7300000000014], ['Ludmila', 2980.720000000001]]
+[['Ezequiel', -0.010000000000218279]]
+
+=================================================
+Celeste summary: 
+
+Celeste paid:
+1/11 - verduleria   ->   $2780
+1/11 - sanguichitos ruteros   ->   $3103.15
+2/11 - super   ->   $5737
+
+Total paid: $11620.15
+
+Celeste has to pay:
+1/11 - verduleria   ->   $556.0   (original value: $2780)
+1/11 - sanguichitos ruteros   ->   $620.63   (original value: $3103.15)
+2/11 - super   ->   $1147.4   (original value: $5737)
+3/11 - birras   ->   $340.0   (original value: $1700)
+6/11 - coca ferne   ->   $520.0   (original value: $2600)
+5/11 - carne   ->   $1500.0   (original value: $7500)
+6/11 - Milanngas pan   ->   $456.0   (original value: $2280)
+12/11 - churrasquitos de cerdo   ->   $806.0   (original value: $4030)
+12/11 - nafta   ->   $640.0   (original value: $3200)
+6/11 - nafta   ->   $940.0   (original value: $4700)
+12/11 - nafta   ->   $1040.0   (original value: $5200)
+12/11 - super   ->   $900.0   (original value: $4500)
+6/11 - nafta   ->   $940.0   (original value: $4700)
+10/11 - nafta   ->   $960.0   (original value: $4800)
+10/11 - picada y helado   ->   $1120.0   (original value: $5600)
+10/11 - super   ->   $2010.0   (original value: $10050)
+10/11 - verduleria   ->   $180.0   (original value: $900)
+6/11 - propina   ->   $300.0   (original value: $1500)
+10/11 - despensa   ->   $320.0   (original value: $1600)
+6/11 - empanadas   ->   $800.0   (original value: $4000)
+10/11 - nafta   ->   $1308.0   (original value: $6540)
+8/11 - nafta   ->   $800.0   (original value: $4000)
+6/11 - nafta   ->   $1400.0   (original value: $7000)
+8/11 - hidromiel   ->   $338.0   (original value: $1690)
+8/11 - super   ->   $1020.0   (original value: $5100)
+8/11 - propina   ->   $40.0   (original value: $200)
+8/11 - nafta   ->   $820.0   (original value: $4100)
+10/11 - nafta   ->   $1880.0   (original value: $9400)
+12/11 - prestado   ->   $333.33   (original value: $1000)
+
+Total to pay (without discounting own payments): $24037
+
+Balance: $-12415.21
+
+=================================================
+Gonzalo summary: 
+
+Gonzalo paid:
+12/11 - nafta   ->   $3200
+6/11 - nafta   ->   $4700
+12/11 - nafta   ->   $5200
+12/11 - super   ->   $4500
+6/11 - nafta   ->   $4700
+10/11 - nafta   ->   $4800
+13/11 - Comida   ->   $8100
+
+Total paid: $35200.0
+
+Gonzalo has to pay:
+1/11 - verduleria   ->   $556.0   (original value: $2780)
+1/11 - sanguichitos ruteros   ->   $620.63   (original value: $3103.15)
+2/11 - super   ->   $1147.4   (original value: $5737)
+3/11 - birras   ->   $340.0   (original value: $1700)
+6/11 - coca ferne   ->   $520.0   (original value: $2600)
+5/11 - carne   ->   $1500.0   (original value: $7500)
+6/11 - Milanngas pan   ->   $456.0   (original value: $2280)
+12/11 - churrasquitos de cerdo   ->   $806.0   (original value: $4030)
+12/11 - nafta   ->   $640.0   (original value: $3200)
+6/11 - nafta   ->   $940.0   (original value: $4700)
+12/11 - nafta   ->   $1040.0   (original value: $5200)
+12/11 - super   ->   $900.0   (original value: $4500)
+6/11 - nafta   ->   $940.0   (original value: $4700)
+10/11 - nafta   ->   $960.0   (original value: $4800)
+10/11 - picada y helado   ->   $1120.0   (original value: $5600)
+10/11 - super   ->   $2010.0   (original value: $10050)
+10/11 - verduleria   ->   $180.0   (original value: $900)
+6/11 - propina   ->   $300.0   (original value: $1500)
+10/11 - despensa   ->   $320.0   (original value: $1600)
+6/11 - empanadas   ->   $800.0   (original value: $4000)
+10/11 - nafta   ->   $1308.0   (original value: $6540)
+8/11 - nafta   ->   $800.0   (original value: $4000)
+6/11 - nafta   ->   $1400.0   (original value: $7000)
+8/11 - hidromiel   ->   $338.0   (original value: $1690)
+8/11 - super   ->   $1020.0   (original value: $5100)
+8/11 - propina   ->   $40.0   (original value: $200)
+8/11 - nafta   ->   $820.0   (original value: $4100)
+10/11 - nafta   ->   $1880.0   (original value: $9400)
+12/11 - prestado   ->   $333.33   (original value: $1000)
+13/11 - Comida   ->   $2025.0   (original value: $8100)
+14/11 - Remis   ->   $1000.0   (original value: $4000)
+
+Total to pay (without discounting own payments): $27062
+
+Balance: $8139.64
+
+=================================================
+Ludmila summary: 
+
+Ludmila paid:
+10/11 - picada y helado   ->   $5600
+10/11 - super   ->   $10050
+10/11 - verduleria   ->   $900
+6/11 - propina   ->   $1500
+10/11 - despensa   ->   $1600
+6/11 - empanadas   ->   $4000
+12/11 - prestado   ->   $1000
+14/11 - Remis   ->   $4000
+15/11 - cositas   ->   $810
+15/11 - super   ->   $4320
+15/11 - mas cositas   ->   $1850
+
+Total paid: $35630.0
+
+Ludmila has to pay:
+1/11 - verduleria   ->   $556.0   (original value: $2780)
+1/11 - sanguichitos ruteros   ->   $620.63   (original value: $3103.15)
+2/11 - super   ->   $1147.4   (original value: $5737)
+3/11 - birras   ->   $340.0   (original value: $1700)
+6/11 - coca ferne   ->   $520.0   (original value: $2600)
+5/11 - carne   ->   $1500.0   (original value: $7500)
+6/11 - Milanngas pan   ->   $456.0   (original value: $2280)
+12/11 - churrasquitos de cerdo   ->   $806.0   (original value: $4030)
+12/11 - nafta   ->   $640.0   (original value: $3200)
+6/11 - nafta   ->   $940.0   (original value: $4700)
+12/11 - nafta   ->   $1040.0   (original value: $5200)
+12/11 - super   ->   $900.0   (original value: $4500)
+6/11 - nafta   ->   $940.0   (original value: $4700)
+10/11 - nafta   ->   $960.0   (original value: $4800)
+10/11 - picada y helado   ->   $1120.0   (original value: $5600)
+10/11 - super   ->   $2010.0   (original value: $10050)
+10/11 - verduleria   ->   $180.0   (original value: $900)
+6/11 - propina   ->   $300.0   (original value: $1500)
+10/11 - despensa   ->   $320.0   (original value: $1600)
+6/11 - empanadas   ->   $800.0   (original value: $4000)
+10/11 - nafta   ->   $1308.0   (original value: $6540)
+8/11 - nafta   ->   $800.0   (original value: $4000)
+6/11 - nafta   ->   $1400.0   (original value: $7000)
+8/11 - hidromiel   ->   $338.0   (original value: $1690)
+8/11 - super   ->   $1020.0   (original value: $5100)
+8/11 - propina   ->   $40.0   (original value: $200)
+8/11 - nafta   ->   $820.0   (original value: $4100)
+10/11 - nafta   ->   $1880.0   (original value: $9400)
+13/11 - Comida   ->   $2025.0   (original value: $8100)
+14/11 - Remis   ->   $1000.0   (original value: $4000)
+15/11 - cositas   ->   $270.0   (original value: $810)
+15/11 - super   ->   $1440.0   (original value: $4320)
+15/11 - remis   ->   $176.67   (original value: $530)
+15/11 - mas cositas   ->   $616.67   (original value: $1850)
+
+Total to pay (without discounting own payments): $29232
+
+Balance: $6399.63
+
+=================================================
+Ezequiel summary: 
+
+Ezequiel paid:
+3/11 - birras   ->   $1700
+6/11 - coca ferne   ->   $2600
+5/11 - carne   ->   $7500
+6/11 - Milanngas pan   ->   $2280
+12/11 - churrasquitos de cerdo   ->   $4030
+
+Total paid: $18110.0
+
+Ezequiel has to pay:
+1/11 - verduleria   ->   $556.0   (original value: $2780)
+1/11 - sanguichitos ruteros   ->   $620.63   (original value: $3103.15)
+2/11 - super   ->   $1147.4   (original value: $5737)
+3/11 - birras   ->   $340.0   (original value: $1700)
+6/11 - coca ferne   ->   $520.0   (original value: $2600)
+5/11 - carne   ->   $1500.0   (original value: $7500)
+6/11 - Milanngas pan   ->   $456.0   (original value: $2280)
+12/11 - churrasquitos de cerdo   ->   $806.0   (original value: $4030)
+12/11 - nafta   ->   $640.0   (original value: $3200)
+6/11 - nafta   ->   $940.0   (original value: $4700)
+12/11 - nafta   ->   $1040.0   (original value: $5200)
+12/11 - super   ->   $900.0   (original value: $4500)
+6/11 - nafta   ->   $940.0   (original value: $4700)
+10/11 - nafta   ->   $960.0   (original value: $4800)
+10/11 - picada y helado   ->   $1120.0   (original value: $5600)
+10/11 - super   ->   $2010.0   (original value: $10050)
+10/11 - verduleria   ->   $180.0   (original value: $900)
+6/11 - propina   ->   $300.0   (original value: $1500)
+10/11 - despensa   ->   $320.0   (original value: $1600)
+6/11 - empanadas   ->   $800.0   (original value: $4000)
+10/11 - nafta   ->   $1308.0   (original value: $6540)
+8/11 - nafta   ->   $800.0   (original value: $4000)
+6/11 - nafta   ->   $1400.0   (original value: $7000)
+8/11 - hidromiel   ->   $338.0   (original value: $1690)
+8/11 - super   ->   $1020.0   (original value: $5100)
+8/11 - propina   ->   $40.0   (original value: $200)
+8/11 - nafta   ->   $820.0   (original value: $4100)
+10/11 - nafta   ->   $1880.0   (original value: $9400)
+13/11 - Comida   ->   $2025.0   (original value: $8100)
+14/11 - Remis   ->   $1000.0   (original value: $4000)
+15/11 - cositas   ->   $270.0   (original value: $810)
+15/11 - super   ->   $1440.0   (original value: $4320)
+15/11 - remis   ->   $176.67   (original value: $530)
+15/11 - mas cositas   ->   $616.67   (original value: $1850)
+
+Total to pay (without discounting own payments): $29232
+
+Balance: $-11120.37
+
+=================================================
+Sergio summary: 
+
+Sergio paid:
+10/11 - nafta   ->   $6540
+8/11 - nafta   ->   $4000
+6/11 - nafta   ->   $7000
+8/11 - hidromiel   ->   $1690
+8/11 - super   ->   $5100
+8/11 - propina   ->   $200
+8/11 - nafta   ->   $4100
+10/11 - nafta   ->   $9400
+15/11 - remis   ->   $530
+
+Total paid: $38560.0
+
+Sergio has to pay:
+1/11 - verduleria   ->   $556.0   (original value: $2780)
+1/11 - sanguichitos ruteros   ->   $620.63   (original value: $3103.15)
+2/11 - super   ->   $1147.4   (original value: $5737)
+3/11 - birras   ->   $340.0   (original value: $1700)
+6/11 - coca ferne   ->   $520.0   (original value: $2600)
+5/11 - carne   ->   $1500.0   (original value: $7500)
+6/11 - Milanngas pan   ->   $456.0   (original value: $2280)
+12/11 - churrasquitos de cerdo   ->   $806.0   (original value: $4030)
+12/11 - nafta   ->   $640.0   (original value: $3200)
+6/11 - nafta   ->   $940.0   (original value: $4700)
+12/11 - nafta   ->   $1040.0   (original value: $5200)
+12/11 - super   ->   $900.0   (original value: $4500)
+6/11 - nafta   ->   $940.0   (original value: $4700)
+10/11 - nafta   ->   $960.0   (original value: $4800)
+10/11 - picada y helado   ->   $1120.0   (original value: $5600)
+10/11 - super   ->   $2010.0   (original value: $10050)
+10/11 - verduleria   ->   $180.0   (original value: $900)
+6/11 - propina   ->   $300.0   (original value: $1500)
+10/11 - despensa   ->   $320.0   (original value: $1600)
+6/11 - empanadas   ->   $800.0   (original value: $4000)
+10/11 - nafta   ->   $1308.0   (original value: $6540)
+8/11 - nafta   ->   $800.0   (original value: $4000)
+6/11 - nafta   ->   $1400.0   (original value: $7000)
+8/11 - hidromiel   ->   $338.0   (original value: $1690)
+8/11 - super   ->   $1020.0   (original value: $5100)
+8/11 - propina   ->   $40.0   (original value: $200)
+8/11 - nafta   ->   $820.0   (original value: $4100)
+10/11 - nafta   ->   $1880.0   (original value: $9400)
+12/11 - prestado   ->   $333.33   (original value: $1000)
+13/11 - Comida   ->   $2025.0   (original value: $8100)
+14/11 - Remis   ->   $1000.0   (original value: $4000)
+15/11 - cositas   ->   $270.0   (original value: $810)
+15/11 - super   ->   $1440.0   (original value: $4320)
+15/11 - remis   ->   $176.67   (original value: $530)
+15/11 - mas cositas   ->   $616.67   (original value: $1850)
+
+Total to pay (without discounting own payments): $29566
+
+Balance: $8996.3
+
+=================================================
+=================================================
+=================================================
+
+Transfer summary: 
+
+From: Celeste to Sergio = $8996.3
+From: Ezequiel to Gonzalo = $8139.64
+From: Celeste to Ludmila = $3418.91
+From: Ezequiel to Ludmila = $2980.72
