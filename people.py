@@ -8,7 +8,7 @@ class People:
         self.qty = 0
         self.populate()
 
-    def populate (self):
+    def populate(self):
         for person in self.people_list_name:
             self.people[person] = Person(person)
             self.qty = self.qty + 1

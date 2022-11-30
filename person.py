@@ -5,6 +5,8 @@ class Person:
         self.paid_list = []
         self.to_pay_list = []
         self.balance = 0.0
+        self.bills_paid = []
+        self.bills_to_pay = []
 
     
     def print_summary(self):
