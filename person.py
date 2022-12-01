@@ -8,7 +8,6 @@ class Person:
         self.bills_paid = []
         self.bills_to_pay = []
 
-    
     def print_summary(self):
         print("Name: " + str(self.name))
         print("Paid list: " + str(self.paid_list))
