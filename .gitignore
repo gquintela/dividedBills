@@ -1,4 +1,4 @@
 __pycache__
-venv/
-.vscode/
-dividedBillsVenv/
+venv
+.vscode
+dividedBillsVenv
