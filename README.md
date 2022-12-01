@@ -1,5 +1,11 @@
 # dividedBills
 
+TODO:
+Graphic UI
+Testing
+prepare and sanitize input csv
+----
+
 pip3 install -r requirements.txt
 
 Usage:

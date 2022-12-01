@@ -2,11 +2,12 @@ import csv
 
 class FileReader:
     
-    def __init__ (self):
-        pass
+    def __init__ (self, people_filename, bills_filename):
+        self.people_txt = people_filename
+        self.bills_csv = bills_filename
 
-    def people_read(self, file):
-        with open(file, encoding = 'utf-8') as f:
+    def people_read(self):
+        with open(self.people_txt, encoding = 'utf-8') as f:
             people = f.read().splitlines()
         return people
         
@@ -20,7 +21,7 @@ class FileReader:
         
     def read_csv_bills(self, file):
         bills  = []
-        with open('test.csv', 'r') as file:
+        with open(self.bills_csv, 'r') as file:
             reader = csv.reader(file)
             bills = list(reader)
             self.remove_empty_fields(bills)

@@ -4,10 +4,10 @@ from fancy_printer import *
 
 class BillManager:
     
-    def __init__ (self):
-        self.a_file_reader = FileReader()
-        self.people = People(self.a_file_reader.people_read("people.txt"))
-        self.bills = self.a_file_reader.read_csv_bills("test.csv")
+    def __init__ (self, people_txt ="people.txt", bills_csv = "bills.csv"):
+        self.a_file_reader = FileReader(people_txt, bills_csv)
+        self.people = People(self.a_file_reader.people_read())
+        self.bills = self.a_file_reader.read_csv_bills(bills_csv)
         self.transfer_summary = []
         self.a_fancy_printer = FancyPrinter()
 
