@@ -1,36 +1,36 @@
-Who paid,ammount,description,date,excluded
-Messi,2780,verduleria,1/11,
-Messi,3103.15,sanguichitos ruteros,1/11,
-Messi,5737,super,2/11,
-kempes,1700,birras,3/11,
-kempes,2600,coca ferne,6/11,
-kempes,7500,carne,5/11,
-kempes,2280,Milanngas pan,6/11,
-kempes,4030,churrasquitos de cerdo,12/11,
-Batistuta,3200,nafta,12/11,
-Batistuta,4700,nafta,6/11,
-Batistuta,5200,nafta,12/11,
-Batistuta,4500,super,12/11,
-Batistuta,4700,nafta,6/11,
-Batistuta,4800,nafta,10/11,
-Crespo,5600,picada y helado,10/11,
-Crespo,10050,super,10/11,
-Crespo,900,verduleria,10/11,
-Crespo,1500,propina,6/11,
-Crespo,1600,despensa,10/11,
-Crespo,4000,empanadas,6/11,
-Maradona,6540,nafta,10/11,
-Maradona,4000,nafta,8/11,
-Maradona,7000,nafta,6/11,
-Maradona,1690,hidromiel,8/11,
-Maradona,5100,super,8/11,
-Maradona,200,propina,8/11,
-Maradona,4100,nafta,8/11,
-Maradona,9400,nafta,10/11,
-Crespo,1000,prestado,12/11,kempes
-Batistuta,8100,Comida,13/11,Messi
-Crespo,4000,Remis,14/11,Messi
-Crespo,810,b,15/11,Batistuta,Messi
-Crespo,4320,c,15/11,Batistuta,Messi
-Maradona,530,d,15/11,Batistuta,Messi
-Crespo,1850,e,15/11,Batistuta,Messi
+fecha,persona,monto,concepto,excluidos
+1/11,Messi,"$2.780,00",verduleria,
+2/11,Messi,"$3.103,15",sanguichitos ruteros,
+3/11,Messi,"$5.737,00",super,
+4/11,kempes,"$1.700,00",birras,
+5/11,kempes,"$2.600,00",coca ferne,
+6/11,kempes,"$7.500,00",carne,
+7/11,kempes,"$2.280,00",Milanngas pan,
+8/11,kempes,"$4.030,00",churrasquitos de cerdo,
+9/11,Batistuta,"$3.200,00",nafta,
+10/11,Batistuta,"$4.700,00",nafta,
+11/11,Batistuta,"$5.200,00",nafta,
+12/11,Batistuta,"$4.500,00",super,
+13/11,Batistuta,"$4.700,00",nafta,
+14/11,Batistuta,"$4.800,00",nafta,
+15/11,Crespo,"$5.600,00",picada y helado,
+16/11,Crespo,"$10.050,00",super,
+17/11,Crespo,"$900,00",verduleria,
+18/11,Crespo,"$1.500,00",propina,
+19/11,Crespo,"$1.600,00",despensa,
+20/11,Crespo,"$4.000,00",empanadas,
+21/11,Maradona,"$6.540,00",nafta,
+22/11,Maradona,"$4.000,00",nafta,
+23/11,Maradona,"$7.000,00",nafta,
+24/11,Maradona,"$1.690,00",hidromiel,
+25/11,Maradona,"$5.100,00",super,
+26/11,Maradona,"$200,00",propina,
+27/11,Maradona,"$4.100,00",nafta,
+28/11,Maradona,"$9.400,00",nafta,
+29/11,Crespo,1000,prestado,"Crespo,kempes"
+30/11,Batistuta,8100,comida,Messi
+1/12,Crespo,4000,remis,Messi
+2/12,Crespo,810,a,"Batistuta,Messi"
+3/12,Crespo,4320,birras,"Batistuta,Messi"
+4/12,Maradona,530,c,"Batistuta,Messi"
+5/12,Crespo,1850,d,"Batistuta,Messi"

@@ -3,7 +3,7 @@ import sys
 
 args_passed = len(sys.argv)
 
-if args_passed not in [1,3]:
+if args_passed not in [1, 3]:
     print("USAGE:")
     print("python3 main.py <txt file> <csv file>")
     print("   where:")
@@ -12,7 +12,7 @@ if args_passed not in [1,3]:
     print("   'csv file' is a file with the bills in a csv format, see bills.csv example.")
     exit(0)
 
-people_txt ="people.txt"
+people_txt = "people.txt"
 bills_csv = "bills.csv"
 
 if args_passed == 3:

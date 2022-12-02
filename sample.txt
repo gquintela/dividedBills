@@ -1,4 +1,4 @@
-PEOPLE INVOLVED: 
+[H[2J[3JPEOPLE INVOLVED: 
 
 ---------
 Messi
@@ -10,43 +10,43 @@ Maradona
 
 THE FOLLOWING BILLS WILL BE PROCCESSED: 
 
-PERSON       AMMOUNT  CONCEPT                 DATE    EXCLUDED    EXCLUDED
----------  ---------  ----------------------  ------  ----------  ----------
-Messi        2780     verduleria              1/11
-Messi        3103.15  sanguichitos ruteros    1/11
-Messi        5737     super                   2/11
-kempes       1700     birras                  3/11
-kempes       2600     coca ferne              6/11
-kempes       7500     carne                   5/11
-kempes       2280     Milanngas pan           6/11
-kempes       4030     churrasquitos de cerdo  12/11
-Batistuta    3200     nafta                   12/11
-Batistuta    4700     nafta                   6/11
-Batistuta    5200     nafta                   12/11
-Batistuta    4500     super                   12/11
-Batistuta    4700     nafta                   6/11
-Batistuta    4800     nafta                   10/11
-Crespo       5600     picada y helado         10/11
-Crespo      10050     super                   10/11
-Crespo        900     verduleria              10/11
-Crespo       1500     propina                 6/11
-Crespo       1600     despensa                10/11
-Crespo       4000     empanadas               6/11
-Maradona     6540     nafta                   10/11
-Maradona     4000     nafta                   8/11
-Maradona     7000     nafta                   6/11
-Maradona     1690     hidromiel               8/11
-Maradona     5100     super                   8/11
-Maradona      200     propina                 8/11
-Maradona     4100     nafta                   8/11
-Maradona     9400     nafta                   10/11
-Crespo       1000     prestado                12/11   kempes
-Batistuta    8100     Comida                  13/11   Messi
-Crespo       4000     Remis                   14/11   Messi
-Crespo        810     b                       15/11   Batistuta   Messi
-Crespo       4320     c                       15/11   Batistuta   Messi
-Maradona      530     d                       15/11   Batistuta   Messi
-Crespo       1850     e                       15/11   Batistuta   Messi
+DATE    ISSUER     AMMOUNT     DESCRIPTION             EXCLUDED
+------  ---------  ----------  ----------------------  ---------------
+1/11    Messi      $ 2780.00   verduleria
+2/11    Messi      $ 3103.15   sanguichitos ruteros
+3/11    Messi      $ 5737.00   super
+4/11    kempes     $ 1700.00   birras
+5/11    kempes     $ 2600.00   coca ferne
+6/11    kempes     $ 7500.00   carne
+7/11    kempes     $ 2280.00   Milanngas pan
+8/11    kempes     $ 4030.00   churrasquitos de cerdo
+9/11    Batistuta  $ 3200.00   nafta
+10/11   Batistuta  $ 4700.00   nafta
+11/11   Batistuta  $ 5200.00   nafta
+12/11   Batistuta  $ 4500.00   super
+13/11   Batistuta  $ 4700.00   nafta
+14/11   Batistuta  $ 4800.00   nafta
+15/11   Crespo     $ 5600.00   picada y helado
+16/11   Crespo     $ 10050.00  super
+17/11   Crespo     $ 900.00    verduleria
+18/11   Crespo     $ 1500.00   propina
+19/11   Crespo     $ 1600.00   despensa
+20/11   Crespo     $ 4000.00   empanadas
+21/11   Maradona   $ 6540.00   nafta
+22/11   Maradona   $ 4000.00   nafta
+23/11   Maradona   $ 7000.00   nafta
+24/11   Maradona   $ 1690.00   hidromiel
+25/11   Maradona   $ 5100.00   super
+26/11   Maradona   $ 200.00    propina
+27/11   Maradona   $ 4100.00   nafta
+28/11   Maradona   $ 9400.00   nafta
+29/11   Crespo     $ 1000.00   prestado                Crespo kempes
+30/11   Batistuta  $ 8100.00   comida                  Messi
+1/12    Crespo     $ 4000.00   remis                   Messi
+2/12    Crespo     $ 810.00    a                       Batistuta Messi
+3/12    Crespo     $ 4320.00   birras                  Batistuta Messi
+4/12    Maradona   $ 530.00    c                       Batistuta Messi
+5/12    Crespo     $ 1850.00   d                       Batistuta Messi
 =================================================
 =================================================
 =================================================
@@ -55,51 +55,51 @@ MESSI SUMMARY:
 
 MESSI PAID:
 
-DATE    CONCEPT               AMMOUNT
+DATE    DESCRIPTION           AMMOUNT
 ------  --------------------  ---------
-1/11    verduleria            $ 2780
-1/11    sanguichitos ruteros  $ 3103.15
-2/11    super                 $ 5737
+1/11    verduleria            $ 2780.00
+2/11    sanguichitos ruteros  $ 3103.15
+3/11    super                 $ 5737.00
 
-TOTAL PAID: $11620.15
+TOTAL PAID: $ 11620.15
 
 MESSI HAS TO PAY:
 
-DATE    CONCEPT                 AMMOUNT    ORIGINAL VALUE
+DATE    DESCRIPTION             AMMOUNT    ORIGINAL VALUE
 ------  ----------------------  ---------  ----------------
-1/11    verduleria              $ 556.0    $ 2780
-1/11    sanguichitos ruteros    $ 620.63   $ 3103.15
-2/11    super                   $ 1147.4   $ 5737
-3/11    birras                  $ 340.0    $ 1700
-6/11    coca ferne              $ 520.0    $ 2600
-5/11    carne                   $ 1500.0   $ 7500
-6/11    Milanngas pan           $ 456.0    $ 2280
-12/11   churrasquitos de cerdo  $ 806.0    $ 4030
-12/11   nafta                   $ 640.0    $ 3200
-6/11    nafta                   $ 940.0    $ 4700
-12/11   nafta                   $ 1040.0   $ 5200
-12/11   super                   $ 900.0    $ 4500
-6/11    nafta                   $ 940.0    $ 4700
-10/11   nafta                   $ 960.0    $ 4800
-10/11   picada y helado         $ 1120.0   $ 5600
-10/11   super                   $ 2010.0   $ 10050
-10/11   verduleria              $ 180.0    $ 900
-6/11    propina                 $ 300.0    $ 1500
-10/11   despensa                $ 320.0    $ 1600
-6/11    empanadas               $ 800.0    $ 4000
-10/11   nafta                   $ 1308.0   $ 6540
-8/11    nafta                   $ 800.0    $ 4000
-6/11    nafta                   $ 1400.0   $ 7000
-8/11    hidromiel               $ 338.0    $ 1690
-8/11    super                   $ 1020.0   $ 5100
-8/11    propina                 $ 40.0     $ 200
-8/11    nafta                   $ 820.0    $ 4100
-10/11   nafta                   $ 1880.0   $ 9400
-12/11   prestado                $ 250.0    $ 1000
+1/11    verduleria              $ 556.00   $ 2780.00
+2/11    sanguichitos ruteros    $ 620.63   $ 3103.15
+3/11    super                   $ 1147.40  $ 5737.00
+4/11    birras                  $ 340.00   $ 1700.00
+5/11    coca ferne              $ 520.00   $ 2600.00
+6/11    carne                   $ 1500.00  $ 7500.00
+7/11    Milanngas pan           $ 456.00   $ 2280.00
+8/11    churrasquitos de cerdo  $ 806.00   $ 4030.00
+9/11    nafta                   $ 640.00   $ 3200.00
+10/11   nafta                   $ 940.00   $ 4700.00
+11/11   nafta                   $ 1040.00  $ 5200.00
+12/11   super                   $ 900.00   $ 4500.00
+13/11   nafta                   $ 940.00   $ 4700.00
+14/11   nafta                   $ 960.00   $ 4800.00
+15/11   picada y helado         $ 1120.00  $ 5600.00
+16/11   super                   $ 2010.00  $ 10050.00
+17/11   verduleria              $ 180.00   $ 900.00
+18/11   propina                 $ 300.00   $ 1500.00
+19/11   despensa                $ 320.00   $ 1600.00
+20/11   empanadas               $ 800.00   $ 4000.00
+21/11   nafta                   $ 1308.00  $ 6540.00
+22/11   nafta                   $ 800.00   $ 4000.00
+23/11   nafta                   $ 1400.00  $ 7000.00
+24/11   hidromiel               $ 338.00   $ 1690.00
+25/11   super                   $ 1020.00  $ 5100.00
+26/11   propina                 $ 40.00    $ 200.00
+27/11   nafta                   $ 820.00   $ 4100.00
+28/11   nafta                   $ 1880.00  $ 9400.00
+29/11   prestado                $ 333.33   $ 1000.00
 
-TOTAL TO PAY (WITHOUT DISCOUNTING OWN PAYMENTS): $ 23954
+TOTAL TO PAY (WITHOUT DISCOUNTING OWN PAYMENTS): $ 24035.36
 
-BALANCE: $-12331.88
+BALANCE: $ -12415.21
 
 =================================================
 =================================================
@@ -109,57 +109,57 @@ BATISTUTA SUMMARY:
 
 BATISTUTA PAID:
 
-DATE    CONCEPT    AMMOUNT
-------  ---------  ---------
-12/11   nafta      $ 3200
-6/11    nafta      $ 4700
-12/11   nafta      $ 5200
-12/11   super      $ 4500
-6/11    nafta      $ 4700
-10/11   nafta      $ 4800
-13/11   Comida     $ 8100
+DATE    DESCRIPTION    AMMOUNT
+------  -------------  ---------
+9/11    nafta          $ 3200.00
+10/11   nafta          $ 4700.00
+11/11   nafta          $ 5200.00
+12/11   super          $ 4500.00
+13/11   nafta          $ 4700.00
+14/11   nafta          $ 4800.00
+30/11   comida         $ 8100.00
 
-TOTAL PAID: $35200.0
+TOTAL PAID: $ 35200.00
 
 BATISTUTA HAS TO PAY:
 
-DATE    CONCEPT                 AMMOUNT    ORIGINAL VALUE
+DATE    DESCRIPTION             AMMOUNT    ORIGINAL VALUE
 ------  ----------------------  ---------  ----------------
-1/11    verduleria              $ 556.0    $ 2780
-1/11    sanguichitos ruteros    $ 620.63   $ 3103.15
-2/11    super                   $ 1147.4   $ 5737
-3/11    birras                  $ 340.0    $ 1700
-6/11    coca ferne              $ 520.0    $ 2600
-5/11    carne                   $ 1500.0   $ 7500
-6/11    Milanngas pan           $ 456.0    $ 2280
-12/11   churrasquitos de cerdo  $ 806.0    $ 4030
-12/11   nafta                   $ 640.0    $ 3200
-6/11    nafta                   $ 940.0    $ 4700
-12/11   nafta                   $ 1040.0   $ 5200
-12/11   super                   $ 900.0    $ 4500
-6/11    nafta                   $ 940.0    $ 4700
-10/11   nafta                   $ 960.0    $ 4800
-10/11   picada y helado         $ 1120.0   $ 5600
-10/11   super                   $ 2010.0   $ 10050
-10/11   verduleria              $ 180.0    $ 900
-6/11    propina                 $ 300.0    $ 1500
-10/11   despensa                $ 320.0    $ 1600
-6/11    empanadas               $ 800.0    $ 4000
-10/11   nafta                   $ 1308.0   $ 6540
-8/11    nafta                   $ 800.0    $ 4000
-6/11    nafta                   $ 1400.0   $ 7000
-8/11    hidromiel               $ 338.0    $ 1690
-8/11    super                   $ 1020.0   $ 5100
-8/11    propina                 $ 40.0     $ 200
-8/11    nafta                   $ 820.0    $ 4100
-10/11   nafta                   $ 1880.0   $ 9400
-12/11   prestado                $ 250.0    $ 1000
-13/11   Comida                  $ 2025.0   $ 8100
-14/11   Remis                   $ 1000.0   $ 4000
+1/11    verduleria              $ 556.00   $ 2780.00
+2/11    sanguichitos ruteros    $ 620.63   $ 3103.15
+3/11    super                   $ 1147.40  $ 5737.00
+4/11    birras                  $ 340.00   $ 1700.00
+5/11    coca ferne              $ 520.00   $ 2600.00
+6/11    carne                   $ 1500.00  $ 7500.00
+7/11    Milanngas pan           $ 456.00   $ 2280.00
+8/11    churrasquitos de cerdo  $ 806.00   $ 4030.00
+9/11    nafta                   $ 640.00   $ 3200.00
+10/11   nafta                   $ 940.00   $ 4700.00
+11/11   nafta                   $ 1040.00  $ 5200.00
+12/11   super                   $ 900.00   $ 4500.00
+13/11   nafta                   $ 940.00   $ 4700.00
+14/11   nafta                   $ 960.00   $ 4800.00
+15/11   picada y helado         $ 1120.00  $ 5600.00
+16/11   super                   $ 2010.00  $ 10050.00
+17/11   verduleria              $ 180.00   $ 900.00
+18/11   propina                 $ 300.00   $ 1500.00
+19/11   despensa                $ 320.00   $ 1600.00
+20/11   empanadas               $ 800.00   $ 4000.00
+21/11   nafta                   $ 1308.00  $ 6540.00
+22/11   nafta                   $ 800.00   $ 4000.00
+23/11   nafta                   $ 1400.00  $ 7000.00
+24/11   hidromiel               $ 338.00   $ 1690.00
+25/11   super                   $ 1020.00  $ 5100.00
+26/11   propina                 $ 40.00    $ 200.00
+27/11   nafta                   $ 820.00   $ 4100.00
+28/11   nafta                   $ 1880.00  $ 9400.00
+29/11   prestado                $ 333.33   $ 1000.00
+30/11   comida                  $ 2025.00  $ 8100.00
+1/12    remis                   $ 1000.00  $ 4000.00
 
-TOTAL TO PAY (WITHOUT DISCOUNTING OWN PAYMENTS): $ 26979
+TOTAL TO PAY (WITHOUT DISCOUNTING OWN PAYMENTS): $ 27060.36
 
-BALANCE: $8222.97
+BALANCE: $ 8139.64
 
 =================================================
 =================================================
@@ -169,65 +169,64 @@ CRESPO SUMMARY:
 
 CRESPO PAID:
 
-DATE    CONCEPT          AMMOUNT
-------  ---------------  ---------
-10/11   picada y helado  $ 5600
-10/11   super            $ 10050
-10/11   verduleria       $ 900
-6/11    propina          $ 1500
-10/11   despensa         $ 1600
-6/11    empanadas        $ 4000
-12/11   prestado         $ 1000
-14/11   Remis            $ 4000
-15/11   b                $ 810
-15/11   c                $ 4320
-15/11   e                $ 1850
+DATE    DESCRIPTION      AMMOUNT
+------  ---------------  ----------
+15/11   picada y helado  $ 5600.00
+16/11   super            $ 10050.00
+17/11   verduleria       $ 900.00
+18/11   propina          $ 1500.00
+19/11   despensa         $ 1600.00
+20/11   empanadas        $ 4000.00
+29/11   prestado         $ 1000.00
+1/12    remis            $ 4000.00
+2/12    a                $ 810.00
+3/12    birras           $ 4320.00
+5/12    d                $ 1850.00
 
-TOTAL PAID: $35630.0
+TOTAL PAID: $ 35630.00
 
 CRESPO HAS TO PAY:
 
-DATE    CONCEPT                 AMMOUNT    ORIGINAL VALUE
+DATE    DESCRIPTION             AMMOUNT    ORIGINAL VALUE
 ------  ----------------------  ---------  ----------------
-1/11    verduleria              $ 556.0    $ 2780
-1/11    sanguichitos ruteros    $ 620.63   $ 3103.15
-2/11    super                   $ 1147.4   $ 5737
-3/11    birras                  $ 340.0    $ 1700
-6/11    coca ferne              $ 520.0    $ 2600
-5/11    carne                   $ 1500.0   $ 7500
-6/11    Milanngas pan           $ 456.0    $ 2280
-12/11   churrasquitos de cerdo  $ 806.0    $ 4030
-12/11   nafta                   $ 640.0    $ 3200
-6/11    nafta                   $ 940.0    $ 4700
-12/11   nafta                   $ 1040.0   $ 5200
-12/11   super                   $ 900.0    $ 4500
-6/11    nafta                   $ 940.0    $ 4700
-10/11   nafta                   $ 960.0    $ 4800
-10/11   picada y helado         $ 1120.0   $ 5600
-10/11   super                   $ 2010.0   $ 10050
-10/11   verduleria              $ 180.0    $ 900
-6/11    propina                 $ 300.0    $ 1500
-10/11   despensa                $ 320.0    $ 1600
-6/11    empanadas               $ 800.0    $ 4000
-10/11   nafta                   $ 1308.0   $ 6540
-8/11    nafta                   $ 800.0    $ 4000
-6/11    nafta                   $ 1400.0   $ 7000
-8/11    hidromiel               $ 338.0    $ 1690
-8/11    super                   $ 1020.0   $ 5100
-8/11    propina                 $ 40.0     $ 200
-8/11    nafta                   $ 820.0    $ 4100
-10/11   nafta                   $ 1880.0   $ 9400
-12/11   prestado                $ 250.0    $ 1000
-13/11   Comida                  $ 2025.0   $ 8100
-14/11   Remis                   $ 1000.0   $ 4000
-15/11   b                       $ 270.0    $ 810
-15/11   c                       $ 1440.0   $ 4320
-15/11   d                       $ 176.67   $ 530
-15/11   e                       $ 616.67   $ 1850
+1/11    verduleria              $ 556.00   $ 2780.00
+2/11    sanguichitos ruteros    $ 620.63   $ 3103.15
+3/11    super                   $ 1147.40  $ 5737.00
+4/11    birras                  $ 340.00   $ 1700.00
+5/11    coca ferne              $ 520.00   $ 2600.00
+6/11    carne                   $ 1500.00  $ 7500.00
+7/11    Milanngas pan           $ 456.00   $ 2280.00
+8/11    churrasquitos de cerdo  $ 806.00   $ 4030.00
+9/11    nafta                   $ 640.00   $ 3200.00
+10/11   nafta                   $ 940.00   $ 4700.00
+11/11   nafta                   $ 1040.00  $ 5200.00
+12/11   super                   $ 900.00   $ 4500.00
+13/11   nafta                   $ 940.00   $ 4700.00
+14/11   nafta                   $ 960.00   $ 4800.00
+15/11   picada y helado         $ 1120.00  $ 5600.00
+16/11   super                   $ 2010.00  $ 10050.00
+17/11   verduleria              $ 180.00   $ 900.00
+18/11   propina                 $ 300.00   $ 1500.00
+19/11   despensa                $ 320.00   $ 1600.00
+20/11   empanadas               $ 800.00   $ 4000.00
+21/11   nafta                   $ 1308.00  $ 6540.00
+22/11   nafta                   $ 800.00   $ 4000.00
+23/11   nafta                   $ 1400.00  $ 7000.00
+24/11   hidromiel               $ 338.00   $ 1690.00
+25/11   super                   $ 1020.00  $ 5100.00
+26/11   propina                 $ 40.00    $ 200.00
+27/11   nafta                   $ 820.00   $ 4100.00
+28/11   nafta                   $ 1880.00  $ 9400.00
+30/11   comida                  $ 2025.00  $ 8100.00
+1/12    remis                   $ 1000.00  $ 4000.00
+2/12    a                       $ 270.00   $ 810.00
+3/12    birras                  $ 1440.00  $ 4320.00
+4/12    c                       $ 176.67   $ 530.00
+5/12    d                       $ 616.67   $ 1850.00
 
-TOTAL TO PAY (WITHOUT DISCOUNTING OWN PAYMENTS): $ 29482
+TOTAL TO PAY (WITHOUT DISCOUNTING OWN PAYMENTS): $ 29230.36
 
-BALANCE: $6149.63
+BALANCE: $ 6399.64
 
 =================================================
 =================================================
@@ -237,58 +236,58 @@ KEMPES SUMMARY:
 
 KEMPES PAID:
 
-DATE    CONCEPT                 AMMOUNT
+DATE    DESCRIPTION             AMMOUNT
 ------  ----------------------  ---------
-3/11    birras                  $ 1700
-6/11    coca ferne              $ 2600
-5/11    carne                   $ 7500
-6/11    Milanngas pan           $ 2280
-12/11   churrasquitos de cerdo  $ 4030
+4/11    birras                  $ 1700.00
+5/11    coca ferne              $ 2600.00
+6/11    carne                   $ 7500.00
+7/11    Milanngas pan           $ 2280.00
+8/11    churrasquitos de cerdo  $ 4030.00
 
-TOTAL PAID: $18110.0
+TOTAL PAID: $ 18110.00
 
 KEMPES HAS TO PAY:
 
-DATE    CONCEPT                 AMMOUNT    ORIGINAL VALUE
+DATE    DESCRIPTION             AMMOUNT    ORIGINAL VALUE
 ------  ----------------------  ---------  ----------------
-1/11    verduleria              $ 556.0    $ 2780
-1/11    sanguichitos ruteros    $ 620.63   $ 3103.15
-2/11    super                   $ 1147.4   $ 5737
-3/11    birras                  $ 340.0    $ 1700
-6/11    coca ferne              $ 520.0    $ 2600
-5/11    carne                   $ 1500.0   $ 7500
-6/11    Milanngas pan           $ 456.0    $ 2280
-12/11   churrasquitos de cerdo  $ 806.0    $ 4030
-12/11   nafta                   $ 640.0    $ 3200
-6/11    nafta                   $ 940.0    $ 4700
-12/11   nafta                   $ 1040.0   $ 5200
-12/11   super                   $ 900.0    $ 4500
-6/11    nafta                   $ 940.0    $ 4700
-10/11   nafta                   $ 960.0    $ 4800
-10/11   picada y helado         $ 1120.0   $ 5600
-10/11   super                   $ 2010.0   $ 10050
-10/11   verduleria              $ 180.0    $ 900
-6/11    propina                 $ 300.0    $ 1500
-10/11   despensa                $ 320.0    $ 1600
-6/11    empanadas               $ 800.0    $ 4000
-10/11   nafta                   $ 1308.0   $ 6540
-8/11    nafta                   $ 800.0    $ 4000
-6/11    nafta                   $ 1400.0   $ 7000
-8/11    hidromiel               $ 338.0    $ 1690
-8/11    super                   $ 1020.0   $ 5100
-8/11    propina                 $ 40.0     $ 200
-8/11    nafta                   $ 820.0    $ 4100
-10/11   nafta                   $ 1880.0   $ 9400
-13/11   Comida                  $ 2025.0   $ 8100
-14/11   Remis                   $ 1000.0   $ 4000
-15/11   b                       $ 270.0    $ 810
-15/11   c                       $ 1440.0   $ 4320
-15/11   d                       $ 176.67   $ 530
-15/11   e                       $ 616.67   $ 1850
+1/11    verduleria              $ 556.00   $ 2780.00
+2/11    sanguichitos ruteros    $ 620.63   $ 3103.15
+3/11    super                   $ 1147.40  $ 5737.00
+4/11    birras                  $ 340.00   $ 1700.00
+5/11    coca ferne              $ 520.00   $ 2600.00
+6/11    carne                   $ 1500.00  $ 7500.00
+7/11    Milanngas pan           $ 456.00   $ 2280.00
+8/11    churrasquitos de cerdo  $ 806.00   $ 4030.00
+9/11    nafta                   $ 640.00   $ 3200.00
+10/11   nafta                   $ 940.00   $ 4700.00
+11/11   nafta                   $ 1040.00  $ 5200.00
+12/11   super                   $ 900.00   $ 4500.00
+13/11   nafta                   $ 940.00   $ 4700.00
+14/11   nafta                   $ 960.00   $ 4800.00
+15/11   picada y helado         $ 1120.00  $ 5600.00
+16/11   super                   $ 2010.00  $ 10050.00
+17/11   verduleria              $ 180.00   $ 900.00
+18/11   propina                 $ 300.00   $ 1500.00
+19/11   despensa                $ 320.00   $ 1600.00
+20/11   empanadas               $ 800.00   $ 4000.00
+21/11   nafta                   $ 1308.00  $ 6540.00
+22/11   nafta                   $ 800.00   $ 4000.00
+23/11   nafta                   $ 1400.00  $ 7000.00
+24/11   hidromiel               $ 338.00   $ 1690.00
+25/11   super                   $ 1020.00  $ 5100.00
+26/11   propina                 $ 40.00    $ 200.00
+27/11   nafta                   $ 820.00   $ 4100.00
+28/11   nafta                   $ 1880.00  $ 9400.00
+30/11   comida                  $ 2025.00  $ 8100.00
+1/12    remis                   $ 1000.00  $ 4000.00
+2/12    a                       $ 270.00   $ 810.00
+3/12    birras                  $ 1440.00  $ 4320.00
+4/12    c                       $ 176.67   $ 530.00
+5/12    d                       $ 616.67   $ 1850.00
 
-TOTAL TO PAY (WITHOUT DISCOUNTING OWN PAYMENTS): $ 29232
+TOTAL TO PAY (WITHOUT DISCOUNTING OWN PAYMENTS): $ 29230.36
 
-BALANCE: $-11120.37
+BALANCE: $ -11120.36
 
 =================================================
 =================================================
@@ -298,63 +297,63 @@ MARADONA SUMMARY:
 
 MARADONA PAID:
 
-DATE    CONCEPT    AMMOUNT
-------  ---------  ---------
-10/11   nafta      $ 6540
-8/11    nafta      $ 4000
-6/11    nafta      $ 7000
-8/11    hidromiel  $ 1690
-8/11    super      $ 5100
-8/11    propina    $ 200
-8/11    nafta      $ 4100
-10/11   nafta      $ 9400
-15/11   d          $ 530
+DATE    DESCRIPTION    AMMOUNT
+------  -------------  ---------
+21/11   nafta          $ 6540.00
+22/11   nafta          $ 4000.00
+23/11   nafta          $ 7000.00
+24/11   hidromiel      $ 1690.00
+25/11   super          $ 5100.00
+26/11   propina        $ 200.00
+27/11   nafta          $ 4100.00
+28/11   nafta          $ 9400.00
+4/12    c              $ 530.00
 
-TOTAL PAID: $38560.0
+TOTAL PAID: $ 38560.00
 
 MARADONA HAS TO PAY:
 
-DATE    CONCEPT                 AMMOUNT    ORIGINAL VALUE
+DATE    DESCRIPTION             AMMOUNT    ORIGINAL VALUE
 ------  ----------------------  ---------  ----------------
-1/11    verduleria              $ 556.0    $ 2780
-1/11    sanguichitos ruteros    $ 620.63   $ 3103.15
-2/11    super                   $ 1147.4   $ 5737
-3/11    birras                  $ 340.0    $ 1700
-6/11    coca ferne              $ 520.0    $ 2600
-5/11    carne                   $ 1500.0   $ 7500
-6/11    Milanngas pan           $ 456.0    $ 2280
-12/11   churrasquitos de cerdo  $ 806.0    $ 4030
-12/11   nafta                   $ 640.0    $ 3200
-6/11    nafta                   $ 940.0    $ 4700
-12/11   nafta                   $ 1040.0   $ 5200
-12/11   super                   $ 900.0    $ 4500
-6/11    nafta                   $ 940.0    $ 4700
-10/11   nafta                   $ 960.0    $ 4800
-10/11   picada y helado         $ 1120.0   $ 5600
-10/11   super                   $ 2010.0   $ 10050
-10/11   verduleria              $ 180.0    $ 900
-6/11    propina                 $ 300.0    $ 1500
-10/11   despensa                $ 320.0    $ 1600
-6/11    empanadas               $ 800.0    $ 4000
-10/11   nafta                   $ 1308.0   $ 6540
-8/11    nafta                   $ 800.0    $ 4000
-6/11    nafta                   $ 1400.0   $ 7000
-8/11    hidromiel               $ 338.0    $ 1690
-8/11    super                   $ 1020.0   $ 5100
-8/11    propina                 $ 40.0     $ 200
-8/11    nafta                   $ 820.0    $ 4100
-10/11   nafta                   $ 1880.0   $ 9400
-12/11   prestado                $ 250.0    $ 1000
-13/11   Comida                  $ 2025.0   $ 8100
-14/11   Remis                   $ 1000.0   $ 4000
-15/11   b                       $ 270.0    $ 810
-15/11   c                       $ 1440.0   $ 4320
-15/11   d                       $ 176.67   $ 530
-15/11   e                       $ 616.67   $ 1850
+1/11    verduleria              $ 556.00   $ 2780.00
+2/11    sanguichitos ruteros    $ 620.63   $ 3103.15
+3/11    super                   $ 1147.40  $ 5737.00
+4/11    birras                  $ 340.00   $ 1700.00
+5/11    coca ferne              $ 520.00   $ 2600.00
+6/11    carne                   $ 1500.00  $ 7500.00
+7/11    Milanngas pan           $ 456.00   $ 2280.00
+8/11    churrasquitos de cerdo  $ 806.00   $ 4030.00
+9/11    nafta                   $ 640.00   $ 3200.00
+10/11   nafta                   $ 940.00   $ 4700.00
+11/11   nafta                   $ 1040.00  $ 5200.00
+12/11   super                   $ 900.00   $ 4500.00
+13/11   nafta                   $ 940.00   $ 4700.00
+14/11   nafta                   $ 960.00   $ 4800.00
+15/11   picada y helado         $ 1120.00  $ 5600.00
+16/11   super                   $ 2010.00  $ 10050.00
+17/11   verduleria              $ 180.00   $ 900.00
+18/11   propina                 $ 300.00   $ 1500.00
+19/11   despensa                $ 320.00   $ 1600.00
+20/11   empanadas               $ 800.00   $ 4000.00
+21/11   nafta                   $ 1308.00  $ 6540.00
+22/11   nafta                   $ 800.00   $ 4000.00
+23/11   nafta                   $ 1400.00  $ 7000.00
+24/11   hidromiel               $ 338.00   $ 1690.00
+25/11   super                   $ 1020.00  $ 5100.00
+26/11   propina                 $ 40.00    $ 200.00
+27/11   nafta                   $ 820.00   $ 4100.00
+28/11   nafta                   $ 1880.00  $ 9400.00
+29/11   prestado                $ 333.33   $ 1000.00
+30/11   comida                  $ 2025.00  $ 8100.00
+1/12    remis                   $ 1000.00  $ 4000.00
+2/12    a                       $ 270.00   $ 810.00
+3/12    birras                  $ 1440.00  $ 4320.00
+4/12    c                       $ 176.67   $ 530.00
+5/12    d                       $ 616.67   $ 1850.00
 
-TOTAL TO PAY (WITHOUT DISCOUNTING OWN PAYMENTS): $ 29482
+TOTAL TO PAY (WITHOUT DISCOUNTING OWN PAYMENTS): $ 29563.70
 
-BALANCE: $9079.63
+BALANCE: $ 8996.30
 
 =================================================
 =================================================
@@ -362,9 +361,9 @@ BALANCE: $9079.63
 
 TRANSFERS SUMMARY: 
 
-FROM    TO           AMMOUNT
+FROM    TO         AMMOUNT
 ------  ---------  ---------
-Messi   Maradona     9079.63
-kempes  Batistuta    8222.97
-Messi   Crespo       3252.25
-kempes  Crespo       2897.38
+Messi   Maradona   $ 8996.30
+kempes  Batistuta  $ 8139.64
+Messi   Crespo     $ 3418.91
+kempes  Crespo     $ 2980.73
